@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-L70PT44_SQLSERVERSTEPAN.SallaryPaymentDW.sa"
+  DTS:DTSID="{4A71A8F1-5BCA-458A-B11A-B2F655FCD621}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=DESKTOP-L70PT44\SQLSERVERSTEPAN;User ID=sa;Initial Catalog=SallaryPaymentDW;Provider=SQLOLEDB.1;Persist Security Info=True;Application Name=SSIS-test_ssis-{4A71A8F1-5BCA-458A-B11A-B2F655FCD621}DESKTOP-L70PT44\SQLSERVERSTEPAN.SallaryPaymentDW.sa;Auto Translate=False;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAfGUc4eMgfUmYaxPe4buocwAAAAACAAAAAAAQZgAAAAEAACAAAACphCifo/dRWrlFQ6lUCfwJwlUgrMValifc87liIIeyhwAAAAAOgAAAAAIAACAAAACuZbRs5pMViVHUB/DO5VDl+3KIHspNJS1hWn1c5/e2yHAAAAAffW30lViOPKG25ZphtuL6OGk6nbVa9kRICWYOP3R1EmD/N7NXfPs0mjONoSBJ1BMgXjUcj5ncNcLNKQaZAK3jONw7tPlN70b3kblEG59fof9A6trOL09aU0+8dWFLEef9gssY8LStV514on905k+dQAAAANQacHVyYbNx89GQPIsPxw4b4ch/3uJ1YvF+VFjiv9pqMeqOg5brcvcTvp+SyUyXui6dtKsm5e/EdONl5V6lqXE=</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
